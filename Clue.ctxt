@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=clue\ description
+comment0.target=Clue(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ of\ class\ Clue\r\n
+comment1.params=
+comment1.target=java.lang.String\ getClue()
+comment1.text=\r\n\ accessor\ to\ get\ the\ clue.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getdescription()
+comment2.text=\r\n\ accessor\ to\ get\ the\ description\ of\ the\ clue.\ \r\n
+numComments=3

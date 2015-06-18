@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment0.text=\r\n\ accessor\ to\ get\ the\ name.\r\n\ @return\ name\ of\ the\ player\r\n
+comment1.params=firstname
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ method\ to\ set\ the\ given\ name.\ \r\n
+numComments=2
